@@ -50,11 +50,11 @@ import  Header from "../header.vue"
               </p>
               <p class="flex items-center">
                 <span class="text-amber-600 text-xl mr-4">✉️</span>
-                hello@yourramenhouse.com
+                hello@ramenhouse.com
               </p>
               <p class="flex items-center">
                 <span class="text-amber-600 text-xl mr-4">📱</span>
-                @yourramenhouse (Instagram & Threads)
+                @ramenhouse
               </p>
             </div>
           </div>
